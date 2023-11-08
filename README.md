@@ -31,13 +31,13 @@ Stock market analysis for informed decisions and manage the risk in the investme
 ► Retrieve Cleaned data from SQL as CSV.<br>
 ► Add the data into Python and use pandas, NumPy for further transformation and analysis.<br>
 ► Calculate returns, identify trends.<br>
-►  Ratios calculated on Python include the following:
-(a) Change in Retail Holdings
-(b) Analyst Buy Ratio
-(c) Profit Margin
-(d) Profit After Tax
-(e) Earnings Per Share (EPS)
-(f) Return on Equity (ROE)
+►  Ratios calculated on Python include the following:.<br>
+(a) Change in Retail Holdings.<br>
+(b) Analyst Buy Ratio.<br>
+(c) Profit Margin.<br>
+(d) Profit After Tax.<br>
+(e) Earnings Per Share (EPS).<br>
+(f) Return on Equity (ROE).<br>
 (g) PS Ratio
 
 ## 3.Power BI for Data Visualization : 
