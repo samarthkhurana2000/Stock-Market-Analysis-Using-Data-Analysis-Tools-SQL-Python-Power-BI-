@@ -3,7 +3,7 @@ Stock market analysis for informed decisions and manage the risk in the investme
 * Title :-        **Stock Market Analysis For The Sub-Sector Of Auto Parts**
 * Created by :-   SAMARTH
 * Date :-         05-07-2023
-* Tool used:-    PYTHON(Google Collab),SQL(MY SQL WORKBENCH) AND POWER BI DESKTOP (For Visualization)
+* Tool used:-    PYTHON(Google Collab).<br>,SQL(MY SQL WORKBENCH) AND .<br>POWER BI DESKTOP (For Visualization)
 
   # Introduction :-
 * This is the Group Project In which Each student got Different Sub- Sector To analyze the Stocks.
