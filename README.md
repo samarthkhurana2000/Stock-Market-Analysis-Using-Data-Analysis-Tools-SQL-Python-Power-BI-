@@ -43,7 +43,9 @@ Stock market analysis for informed decisions and manage the risk in the investme
 ## 3.Power BI for Data Visualization : 
 ► Extract data from Python as csv.<br>
 ► Calculate New Column Using Power Query Editor for Types of Market Cap.<br>
-► > 5000 and <20000 for mid cap,>20000 for Large cap.<br>
-► 131 customers are visiting their local restaurants & 14 customers are visiting outside of their locality.<br>
-.
+► "<5000" for small cap, "> 5000 and <20000 "for mid cap,">20000" for Large cap.<br>
+► Filtered out auto parts in sub sector column.<br>
+► Drawn the charts for the visualization and key insights.<br>
+
+
 
